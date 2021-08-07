@@ -21,7 +21,7 @@ class _BotCommands:
         self.SpeedCommand = 'ooklatest1'
         self.CloneCommand = 'clone1'
         self.CountCommand = 'count'
-        self.WatchCommand = 'watch'1
+        self.WatchCommand = 'watch1'
         self.TarWatchCommand = 'tarwatch1'
         self.DeleteCommand = 'del1'
         self.ConfigMenuCommand = 'config1'
